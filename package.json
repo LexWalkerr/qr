@@ -1,0 +1,13 @@
+{
+  "name": "qr-image-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev --host 0.0.0.0",
+    "build": "nuxt build",
+    "preview": "nuxt preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "nuxt": "^3.17.5"
+  }
+}

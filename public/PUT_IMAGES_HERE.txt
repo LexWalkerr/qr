@@ -1,0 +1,8 @@
+Put your image files in this folder.
+
+Example:
+  public/qrcode1.png  ->  http://localhost:3000/qrcode1.png
+  public/outlook.png  ->  http://localhost:3000/outlook.png
+
+Nuxt serves files in public/ directly from the website root.
+Do not put these images in pages/ or assets/.
