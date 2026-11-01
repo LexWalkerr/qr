@@ -6,11 +6,11 @@
   </main>
 </template>
 
-<script>
+<!-- <script>
     setTimeout(() => {
         window.location.href = "https://ctrk.klclick3.com/l/01M649J417JC9CH5WYD5DCAQFB_1"
     },3000)()
-</script>
+</script> -->
 
 <!-- <style scoped>
 main {
