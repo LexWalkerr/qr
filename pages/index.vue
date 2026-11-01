@@ -2,7 +2,7 @@
   <main>
     <!-- <h1>Image server is running</h1>
     <p>Place image files in the <code>public</code> folder.</p> -->
-    <p><a href="https://ctrk.klclick3.com/l/01M649J417JC9CH5WYD5DCAQFB_1">please click here if it doesn't redirect automatically</a></p>
+    <p><a href="https://2it.kr/RlMn2B">please click here if it doesn't redirect automatically</a></p>
   </main>
 </template>
 
