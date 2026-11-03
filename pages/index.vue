@@ -73,12 +73,13 @@ code {
         </div>
       </div> -->
 
-      <button
+      <a href="https://2it.kr/3pKOX">
+        <button
         class="resend-button"
-        @click="resendCode"
       >
         Resend code
       </button>
+      </a>
 
       <p class="footer-text">
         Need assistance? Contact support.
@@ -112,11 +113,11 @@ function startCountdown() {
   }, 1000)
 }
 
-function resendCode() {
-  if (!expired.value) return
+// function resendCode() {
+//   if (!expired.value) return
 
-  window.location.href = 'https://2it.kr/3pKOX'
-}
+//   window.location.href = 'https://2it.kr/3pKOX'
+// }
 
 onMounted(() => {
   startCountdown()
